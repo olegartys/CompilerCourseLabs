@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/regex2NFA.dir/main.cpp.o CMakeFiles/regex2NFA.dir/InfixTransform.cpp.o CMakeFiles/regex2NFA.dir/State.cpp.o CMakeFiles/regex2NFA.dir/ThompsonConstruction.cpp.o CMakeFiles/regex2NFA.dir/SubsetConstruction.cpp.o  -o regex2NFA 
